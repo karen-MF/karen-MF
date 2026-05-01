@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Karen Morales Fuentes 👋
 
-<!--
-**karen-MF/karen-MF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionada por la tecnología y entusiasta por desarrollar mi carrera profesional como **Analista de Datos**, enfocada en transformar información en decisiones estratégicas mediante herramientas de análisis y visualización. 📊
 
-Here are some ideas to get you started:
+🔭 Actualmente me encuentro fortaleciendo mis conocimientos en el área de **Data Analytics**, desarrollando proyectos prácticos y aplicando habilidades adquiridas durante mi formación en TripleTen. Con muchas ganas de integrarme al mundo laboral y seguir creciendo profesionalmente. 💪
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Actualmente practico con herramientas como **SQL, Python, Excel, Power BI y Tableau**, realizando análisis de datos, dashboards interactivos, limpieza de bases de datos y generación de reportes enfocados en resultados. 💻📈
+
+💓 Me motiva descubrir patrones, tendencias y oportunidades ocultas en los datos, ya que disfruto resolver problemas mediante lógica, análisis y pensamiento estratégico. 🧠📉
+
+
+📫 ¿Quieres contactarme?
+
+💼 LinkedIn: www.linkedin.com/in/
+karen-morales-fuentes
+
+📧 karen.emoralesf@gmail.com
