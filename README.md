@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./Banner.jpeg" width="100%">
+</p>
 # Hola, soy Karen Morales Fuentes 👋
 
 Apasionada por la tecnología y entusiasta por desarrollar mi carrera profesional como **Analista de Datos**, enfocada en transformar información en decisiones estratégicas mediante herramientas de análisis y visualización. 📊
